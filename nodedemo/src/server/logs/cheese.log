@@ -1,0 +1,7 @@
+[2019-02-13T00:02:53.669] [ERROR] cheese - { code: 1,
+  message: 'node-fetch和后端通讯异常undefinedlibrary/index',
+  data: [] }
+[2019-02-22T11:20:44.545] [ERROR] cheese - { code: 1,
+  message:
+   'node-fetch和后端通讯异常http://localhost/books/basic/web/index.php?r=library/index',
+  data: [] }
